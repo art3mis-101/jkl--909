@@ -1,6 +1,0 @@
-
-# Pranay
-| Username | email id | skills |
-| :----- | :-------- | :----------------: |
-| pranayvaranasi| pranay23varanasi@gmail.com | Python |
-## Contribution
